@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# If you change something here, please rerun `jekyll serve`
+
+# Site settings
+title: John of All Trades
+description: A man in pursuit of all sorts of skills in life. Mostly tech-based. Mostly.
+baseurl: "/blog" # put subpath of your site, e.g. /blog
+url: "https://johnle.org" # put the base hostname & protocol for your site
+
+email: john@johnle.org
+twitter_username: 
+github_username:  9-5
+linkedin_username: johnle
+
+paginate: 6
+
+gems: [jekyll-paginate, kramdown]
+markdown: kramdown
